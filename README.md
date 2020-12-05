@@ -22,7 +22,7 @@ http://hw2-gate-door-visitors.s3-website-us-east-1.amazonaws.com/
 
 ## Architecture Diagram ##
 
-![](https://github.com/siwei6525/AWS_chat_bot/blob/master/Architecture%20Diagram.png)
+![](https://github.com/siwei6525/AWS_smart_door/blob/master/Architecture%20Diagram.png)
 
 
 
